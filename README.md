@@ -1,4 +1,4 @@
-Relógio Dinâmico
+Digital Clock
 
 Relógio que exibe hora, data e mensagem de acordo com o período do dia.
 
